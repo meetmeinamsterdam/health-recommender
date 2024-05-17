@@ -1,0 +1,411 @@
+,Unnamed: 0,disease,workout
+0,0,Infeksi jamur,Hindari makanan manis
+1,1,Infeksi jamur,Konsumsi probiotik
+2,2,Infeksi jamur,Tingkatkan asupan bawang putih
+3,3,Infeksi jamur,Sertakan yogurt dalam diet
+4,4,Infeksi jamur,Batasi makanan olahan
+5,5,Infeksi jamur,Tetap terhidrasi
+6,6,Infeksi jamur,Konsumsi teh hijau
+7,7,Infeksi jamur,Makan makanan kaya seng
+8,8,Infeksi jamur,Sertakan kunyit dalam diet
+9,9,Infeksi jamur,Makan buah-buahan dan sayuran
+10,10,Alergi,Hindari makanan yang menyebabkan alergi
+11,11,Alergi,Konsumsi makanan antiinflamasi
+12,12,Alergi,Sertakan asam lemak omega-3
+13,13,Alergi,Tetap terhidrasi
+14,14,Alergi,Konsumsi makanan kaya vitamin C
+15,15,Alergi,Sertakan makanan kaya kuersetin
+16,16,Alergi,Konsumsi madu lokal
+17,17,Alergi,Batasi makanan olahan
+18,18,Alergi,Sertakan jahe dalam diet
+19,19,Alergi,Hindari bahan tambahan buatan
+20,20,GERD,Konsumsi porsi makan kecil
+21,21,GERD,"Hindari makanan pemicu (pedas, berlemak)"
+22,22,GERD,Konsumsi makanan tinggi serat
+23,23,GERD,Batasi konsumsi kafein dan alkohol
+24,24,GERD,Kunyah makanan dengan baik
+25,25,GERD,Hindari makan larut malam
+26,26,GERD,Konsumsi buah-buahan non sitrus
+27,27,GERD,Sertakan protein tanpa lemak
+28,28,GERD,Tetap terhidrasi
+29,29,GERD,Hindari minuman berkarbonasi
+30,30,Kolestasis Kronis,Konsumsi diet rendah lemak
+31,31,Kolestasis Kronis,Konsumsi makanan tinggi serat
+32,32,Kolestasis Kronis,Sertakan lemak sehat
+33,33,Kolestasis Kronis,Batasi konsumsi alkohol
+34,34,Kolestasis Kronis,Tetap terhidrasi
+35,35,Kolestasis Kronis,Konsumsi makanan kaya antioksidan
+36,36,Kolestasis Kronis,Sertakan asam lemak omega-3
+37,37,Kolestasis Kronis,Sertakan protein tanpa lemak
+38,38,Kolestasis Kronis,Batasi konsumsi makanan olahan
+39,39,Kolestasis Kronis,Hindari makanan digoreng
+40,40,Reaksi Obat,Hentikan penggunaan obat yang menyebabkan masalah
+41,41,Reaksi Obat,Tetap terhidrasi
+42,42,Reaksi Obat,Sertakan makanan antiinflamasi
+43,43,Reaksi Obat,Konsumsi antioksidan
+44,44,Reaksi Obat,Hindari makanan pemicu
+45,45,Reaksi Obat,Sertakan asam lemak omega-3
+46,46,Reaksi Obat,Batasi konsumsi kafein dan alkohol
+47,47,Reaksi Obat,Tetap terhidrasi
+48,48,Reaksi Obat,Konsumsi diet seimbang
+49,49,Reaksi Obat,Konsultasikan dengan profesional kesehatan
+50,50,Penyakit tukak peptik,"Konsumsi porsi makan lebih kecil dan lebih sering"
+51,51,Penyakit tukak peptik,"Hindari makanan pemicu (pedas, asam)"
+52,52,Penyakit tukak peptik,Sertakan makanan tinggi serat
+53,53,Penyakit tukak peptik,Batasi konsumsi kafein dan alkohol
+54,54,Penyakit tukak peptik,Tetap terhidrasi
+55,55,Penyakit tukak peptik,Konsumsi probiotik
+56,56,Penyakit tukak peptik,Sertakan protein rendah lemak
+57,57,Penyakit tukak peptik,Sertakan makanan kaya antioksidan
+58,58,Penyakit tukak peptik,Batasi makanan olahan
+59,59,Penyakit tukak peptik,Hindari merokok dan alkohol
+60,60,AIDS,Ikuti diet seimbang dan bergizi
+61,61,AIDS,Sertakan protein rendah lemak
+62,62,AIDS,Konsumsi makanan kaya nutrisi
+63,63,AIDS,Tetap terhidrasi
+64,64,AIDS,Sertakan lemak sehat
+65,65,AIDS,Hindari makanan mentah atau setengah matang
+66,66,AIDS,Batasi makanan dan minuman manis
+67,67,AIDS,Konsumsi makanan peningkat kekebalan tubuh
+68,68,AIDS,Konsumsi suplemen yang diresepkan
+69,69,AIDS,Konsultasikan dengan profesional kesehatan
+70,70,Diabetes,Pantau asupan karbohidrat
+71,71,Diabetes,Konsumsi makanan seimbang
+72,72,Diabetes,Sertakan protein rendah lemak
+73,73,Diabetes,Konsumsi makanan tinggi serat
+74,74,Diabetes,Tetap terhidrasi
+75,75,Diabetes,Batasi makanan dan minuman manis
+76,76,Diabetes,Sertakan lemak sehat
+77,77,Diabetes,Pantau kadar gula darah
+78,78,Diabetes,Konsultasikan dengan ahli diet terdaftar
+79,79,Diabetes,Konsumsi obat sesuai petunjuk dokter
+80,80,Gastroenteritis,Tetap terhidrasi
+81,81,Gastroenteritis,Konsumsi cairan bening
+82,82,Gastroenteritis,"Ikuti diet BRAT (pisang, beras, saus apel, roti)"
+83,83,Gastroenteritis,Sertakan makanan
+84,84,Gastroenteritis,Hindari makanan berlemak dan berminyak
+85,85,Gastroenteritis,Batasi konsumsi kafein dan alkohol
+86,86,Gastroenteritis,Hindari makanan pedas
+87,87,Gastroenteritis,Konsultasikan dengan profesional kesehatan
+88,88,Gastroenteritis,Secara perlahan mulai makan makanan padat kembali
+89,89,Gastroenteritis,Hindari produk susu
+90,90,Asma Bronkial,Sertakan makanan anti-inflamasi
+91,91,Asma Bronkial,Konsumsi asam lemak omega-3
+92,92,Asma Bronkial,Batasi asupan natrium
+93,93,Asma Bronkial,Tetap terhidrasi
+94,94,Asma Bronkial,Sertakan makanan kaya antioksidan
+95,95,Asma Bronkial,Hindari makanan yang mengandung sulfida
+96,96,Asma Bronkial,Batasi makanan olahan
+97,97,Asma Bronkial,Konsumsi makanan kaya magnesium
+98,98,Asma Bronkial,Konsultasikan dengan profesional kesehatan
+99,99,Asma Bronkial,Hindari makanan pemicu
+100,100,Hipertensi,Ikuti diet DASH (Dietary Approaches to Stop Hipertensi)
+101,101,Hipertensi,Batasi asupan natrium
+102,102,Hipertensi,Sertakan makanan kaya kalium
+103,103,Hipertensi,Tetap terhidrasi
+104,104,Hipertensi,Konsumsi makanan kaya kalsium
+105,105,Hipertensi,Batasi konsumsi alkohol
+106,106,Hipertensi,Sertakan makanan kaya magnesium
+107,107,Hipertensi,Konsumsi asam lemak omega-3
+108,108,Hipertensi,Batasi makanan olahan
+109,109,Hipertensi,Konsultasikan dengan profesional kesehatan
+110,110,Migrain,Identifikasi dan hindari makanan pemicu
+111,111,Migrain,Tetap terhidrasi
+112,112,Migrain,Sertakan makanan kaya magnesium
+113,113,Migrain,Konsumsi asam lemak omega-3
+114,114,Migrain,Batasi konsumsi kafein dan alkohol
+115,115,Migrain,Konsumsi makanan kaya riboflavin
+116,116,Migrain,Batasi makanan olahan
+117,117,Migrain,Jaga waktu makan yang teratur
+118,118,Migrain,Konsultasikan dengan profesional kesehatan
+119,119,Migrain,Mengelola stres
+120,120,Spondilosis Serviks,Sertakan makanan anti-inflamasi
+121,121,Spondilosis Serviks,Konsumsi asam lemak omega-3
+122,122,Spondilosis Serviks,Sertakan makanan kaya vitamin D
+123,123,Spondilosis Serviks,Tetap terhidrasi
+124,124,Spondilosis Serviks,Konsumsi makanan kaya antioksidan
+125,125,Spondilosis Serviks,Batasi makanan olahan
+126,126,Spondilosis Serviks,Sertakan protein rendah lemak
+127,127,Spondilosis Serviks,Praktikkan postur tubuh yang baik
+128,128,Spondilosis Serviks,Konsultasikan dengan profesional kesehatan
+129,129,Spondilosis Serviks,Lakukan olahraga secara teratur
+130,130,Paralisis (perdarahan otak),Ikuti diet seimbang dan bergizi
+131,131,Paralisis (perdarahan otak),Sertakan protein rendah lemak
+132,132,Paralisis (perdarahan otak),Konsumsi makanan kaya nutrisi
+133,133,Paralisis (perdarahan otak),Tetap terhidrasi
+134,134,Paralisis (perdarahan otak),Sertakan lemak sehat
+135,135,Paralisis (perdarahan otak),Batasi makanan dan minuman manis
+136,136,Paralisis (perdarahan otak),Sertakan antioksidan
+137,137,Paralisis (perdarahan otak),Konsumsi makanan kaya vitamin K
+138,138,Paralisis (perdarahan otak),Konsultasikan dengan profesional kesehatan
+139,139,Paralisis (perdarahan otak),Mengelola stres
+140,140,Jaundice,Tetap terhidrasi
+141,141,Jaundice,Konsumsi makanan kaya nutrisi
+142,142,Jaundice,Sertakan makanan kaya protein
+143,143,Jaundice,Konsumsi makanan yang mudah dicerna
+144,144,Jaundice,Batasi makanan berlemak
+145,145,Jaundice,Hindari alkohol dan kafein
+146,146,Jaundice,Sertakan makanan kaya vitamin C
+147,147,Jaundice,Konsultasikan dengan profesional kesehatan
+148,148,Jaundice,Beristirahat dan hemat energi
+149,149,Jaundice,Secara perlahan kembali ke diet normal
+150,150,Malaria,Tetap terhidrasi
+151,151,Malaria,Konsumsi makanan kaya nutrisi
+152,152,Malaria,Sertakan makanan kaya protein
+153,153,Malaria,Konsumsi makanan yang kaya antioksidan
+154,154,Malaria,Batasi makanan berlemak dan berminyak
+155,155,Malaria,Hindari alkohol dan kafein
+156,156,Malaria,Sertakan makanan kaya vitamin C
+157,157,Malaria,Konsultasikan dengan profesional kesehatan
+158,158,Malaria,Beristirahat dan hemat energi
+159,159,Malaria,Secara perlahan kembali ke diet normal
+160,160,Cacar Air,Tetap terhidrasi
+161,161,Cacar Air,Sertakan makanan yang mudah dicerna
+162,162,Cacar Air,Sertakan makanan kaya vitamin C
+163,163,Cacar Air,Konsumsi makanan kaya protein
+164,164,Cacar Air,Sertakan makanan kaya seng
+165,165,Cacar Air,Hindari makanan pedas dan asam
+166,166,Cacar Air,Konsultasikan dengan tenaga kesehatan
+167,167,Cacar Air,Aplikasikan kebersihan yang baik
+168,168,Cacar Air,Istirahat dan hemat energi
+169,169,Cacar Air,Secara bertahap kembalikan pola makan normal
+170,170,Dengue,Tetap terhidrasi
+171,171,Dengue,Sertakan makanan kaya nutrisi
+172,172,Dengue,Konsumsi makanan kaya vitamin C dan antioksidan
+173,173,Dengue,Batasi makanan berlemak dan berminyak
+174,174,Dengue,Hindari kafein dan alkohol
+175,175,Dengue,Sertakan makanan yang lembut dan mudah dicerna
+176,176,Dengue,Konsultasikan dengan tenaga kesehatan
+177,177,Dengue,Istirahat dan hemat energi
+178,178,Dengue,Secara bertahap kembalikan pola makan normal
+179,179,Dengue,Patuhi rekomendasi medis
+180,180,Tifoid,Konsumsi makanan yang mudah dicerna
+181,181,Tifoid,Tetap terhidrasi
+182,182,Tifoid,Sertakan makanan kaya nutrisi
+183,183,Tifoid,Konsumsi makanan kaya vitamin C dan antioksidan
+184,184,Tifoid,Sertakan makanan kaya protein
+185,185,Tifoid,Hindari makanan berlemak dan berminyak
+186,186,Tifoid,Konsultasikan dengan tenaga kesehatan
+187,187,Tifoid,Secara bertahap kembalikan pola makan normal
+188,188,Tifoid,Patuhi rekomendasi medis
+189,189,Tifoid,Hindari alkohol dan kafein
+190,190,Hepatitis A,Tetap terhidrasi
+191,191,Hepatitis A,Konsumsi makanan kaya nutrisi
+192,192,Hepatitis A,Sertakan makanan kaya protein
+193,193,Hepatitis A,Konsumsi makanan yang mudah dicerna
+194,194,Hepatitis A,Batasi makanan berlemak
+195,195,Hepatitis A,Hindari alkohol dan kafein
+196,196,Hepatitis A,Sertakan makanan kaya vitamin C
+197,197,Hepatitis A,Konsultasikan dengan tenaga kesehatan
+198,198,Hepatitis A,Istirahat dan hemat energi
+199,199,Hepatitis A,Secara bertahap kembalikan pola makan normal
+200,200,Hepatitis B,Patuhi pola makan seimbang dan bergizi
+201,201,Hepatitis B,Tetap terhidrasi
+202,202,Hepatitis B,Sertakan makanan kaya protein
+203,203,Hepatitis B,Konsumsi makanan kaya nutrisi
+204,204,Hepatitis B,Batasi makanan berlemak
+205,205,Hepatitis B,Hindari alkohol dan kafein
+206,206,Hepatitis B,Sertakan makanan kaya vitamin C
+207,207,Hepatitis B,Konsultasikan dengan tenaga kesehatan
+208,208,Hepatitis B,Istirahat dan hemat energi
+209,209,Hepatitis B,Secara bertahap kembalikan pola makan normal
+210,210,Hepatitis C,Patuhi pola makan seimbang dan bergizi
+211,211,Hepatitis C,Tetap terhidrasi
+212,212,Hepatitis C,Sertakan makanan kaya protein
+213,213,Hepatitis C,Konsumsi makanan kaya nutrisi
+214,214,Hepatitis C,Batasi makanan berlemak
+215,215,Hepatitis C,Hindari alkohol dan kafein
+216,216,Hepatitis C,Sertakan makanan kaya vitamin C
+217,217,Hepatitis C,Konsultasikan dengan tenaga kesehatan
+218,218,Hepatitis C,Istirahat dan hemat energi
+219,219,Hepatitis C,Secara bertahap kembalikan pola makan normal
+220,220,Hepatitis D,Patuhi pola makan seimbang dan bergizi
+221,221,Hepatitis D,Tetap terhidrasi
+222,222,Hepatitis D,Sertakan makanan kaya protein
+223,223,Hepatitis D,Konsumsi makanan kaya nutrisi
+224,224,Hepatitis D,Batasi makanan berlemak
+225,225,Hepatitis D,Hindari alkohol dan kafein
+226,226,Hepatitis D,Sertakan makanan kaya vitamin C
+227,227,Hepatitis D,Konsultasikan dengan tenaga kesehatan
+228,228,Hepatitis D,Istirahat dan hemat energi
+229,229,Hepatitis D,Secara bertahap kembalikan pola makan normal
+230,230,Hepatitis E,Tetap terhidrasi
+231,231,Hepatitis E,Konsumsi makanan kaya nutrisi
+232,232,Hepatitis E,Sertakan makanan kaya protein
+233,233,Hepatitis E,Konsumsi makanan yang mudah dicerna
+234,234,Hepatitis E,Batasi makanan berlemak
+235,235,Hepatitis E,Hindari alkohol dan kafein
+236,236,Hepatitis E,Sertakan makanan kaya vitamin C
+237,237,Hepatitis E,Konsultasikan dengan tenaga kesehatan
+238,238,Hepatitis E,Istirahat dan hemat energi
+239,239,Hepatitis E,Secara bertahap kembalikan pola makan normal
+240,240,Hepatitis Alkoholik,Hindari konsumsi alkohol
+241,241,Hepatitis Alkoholik,Patuhi pola makan seimbang dan bergizi
+242,242,Hepatitis Alkoholik,Tetap terhidrasi
+243,243,Hepatitis Alkoholik,Sertakan makanan kaya nutrisi
+244,244,Hepatitis Alkoholik,Sertakan makanan kaya protein
+245,245,Hepatitis Alkoholik,Batasi makanan berlemak
+246,246,Hepatitis Alkoholik,Sertakan antioksidan
+247,247,Hepatitis Alkoholik,Konsultasikan dengan tenaga medis
+248,248,Hepatitis Alkoholik,Istirahat dan hemat energi
+249,249,Hepatitis Alkoholik,Secara bertahap kembalikan diet normal
+250,250,Tuberkulosis,Konsumsi diet tinggi protein
+251,251,Tuberkulosis,Sertakan makanan kaya nutrisi
+252,252,Tuberkulosis,Tetap terhidrasi
+253,253,Tuberkulosis,Konsumsi makanan kaya vitamin A dan C
+254,254,Tuberkulosis,Sertakan makanan kaya seng
+255,255,Tuberkulosis,Batasi makanan dan minuman manis
+256,256,Tuberkulosis,Konsultasikan dengan tenaga medis
+257,257,Tuberkulosis,Istirahat dan hemat energi
+258,258,Tuberkulosis,Secara bertahap kembalikan diet normal
+259,259,Tuberkulosis,Ikuti rekomendasi medis
+260,260,Flu Biasa,Tetap terhidrasi
+261,261,Flu Biasa,Sertakan makanan kaya nutrisi
+262,262,Flu Biasa,Konsumsi makanan kaya vitamin C dan antioksidan
+263,263,Flu Biasa,Sertakan makanan kaya seng
+264,264,Flu Biasa,Batasi makanan dan minuman manis
+265,265,Flu Biasa,Konsumsi sop ayam
+266,266,Flu Biasa,Konsultasikan dengan tenaga medis
+267,267,Flu Biasa,Istirahat dan hemat energi
+268,268,Flu Biasa,Secara bertahap kembalikan diet normal
+269,269,Flu Biasa,Ikuti rekomendasi medis
+270,270,Pneumonia,Tetap terhidrasi
+271,271,Pneumonia,Sertakan makanan kaya nutrisi
+272,272,Pneumonia,Konsumsi makanan kaya vitamin C dan antioksidan
+273,273,Pneumonia,Sertakan makanan kaya seng
+274,274,Pneumonia,Batasi makanan dan minuman manis
+275,275,Pneumonia,Konsumsi sop ayam
+276,276,Pneumonia,Konsultasikan dengan tenaga medis
+277,277,Pneumonia,Istirahat dan hemat energi
+278,278,Pneumonia,Secara bertahap kembalikan diet normal
+279,279,Pneumonia,Ikuti rekomendasi medis
+280,280,Hemoroid Dimorfik (Wasir),Konsumsi makanan tinggi serat
+281,281,Hemoroid Dimorfik (Wasir),Tetap terhidrasi
+282,282,Hemoroid Dimorfik (Wasir),Sertakan makanan kaya nutrisi
+283,283,Hemoroid Dimorfik (Wasir),Konsumsi makanan kaya flavonoid
+284,284,Hemoroid Dimorfik (Wasir),Batasi makanan olahan
+285,285,Hemoroid Dimorfik (Wasir),Hindari makanan pedas dan berlemak
+286,286,Hemoroid Dimorfik (Wasir),Konsultasikan dengan tenaga medis
+287,287,Hemoroid Dimorfik (Wasir),Praktikkan kebersihan yang baik
+288,288,Hemoroid Dimorfik (Wasir),Secara bertahap kembalikan diet normal
+289,289,Hemoroid Dimorfik (Wasir),Ikuti rekomendasi medis
+290,290,Serangan jantung,Ikuti diet sehat jantung
+291,291,Serangan jantung,Batasi asupan sodium
+292,292,Serangan jantung,Sertakan makanan tinggi serat
+293,293,Serangan jantung,Konsumsi lemak sehat
+294,294,Serangan jantung,Sertakan protein tanpa lemak
+295,295,Serangan jantung,Batasi makanan dan minuman manis
+296,296,Serangan jantung,Tetap terhidrasi
+297,297,Serangan jantung,Konsultasikan dengan tenaga medis
+298,298,Serangan jantung,Ikuti rekomendasi medis
+299,299,Serangan jantung,Lakukan latihan rutin
+300,300,Varises,Konsumsi diet tinggi serat
+301,301,Varises,Tetap terhidrasi
+302,302,Varises,Sertakan makanan kaya nutrisi
+303,303,Varises,Konsumsi makanan kaya antioksidan
+304,304,Varises,Batasi asupan sodium
+305,305,Varises,Sertakan makanan kaya flavonoid
+306,306,Varises,Hindari berdiri atau duduk dalam waktu lama
+307,307,Varises,Konsultasikan dengan tenaga medis
+308,308,Varises,Ikuti rekomendasi medis
+309,309,Varises,Lakukan latihan rutin
+310,310,Hipotiroidisme,Sertakan makanan kaya yodium
+311,311,Hipotiroidisme,Konsumsi makanan kaya selenium
+312,312,Hipotiroidisme,Tetap terhidrasi
+313,313,Hipotiroidisme,Sertakan makanan kaya nutrisi
+314,314,Hipotiroidisme,Batasi makanan olahan
+315,315,Hipotiroidisme,Konsumsi makanan kaya vitamin B dan D
+316,316,Hipotiroidisme,Konsultasikan dengan tenaga medis
+317,317,Hipotiroidisme,Ikuti rekomendasi medis
+318,318,Hipotiroidisme,Maintain berat badan yang stabil
+319,319,Hipotiroidisme,Lakukan latihan rutin
+320,320,Hipertiroidisme,Batasi asupan yodium
+321,321,Hipertiroidisme,Konsumsi sayuran cruciferous secara moderat
+322,322,Hipertiroidisme,Tetap terhidrasi
+323,323,Hipertiroidisme,Sertakan makanan kaya nutrisi
+324,324,Hipertiroidisme,Batasi konsumsi kafein dan alkohol
+325,325,Hipertiroidisme,Sertakan asam lemak omega-3
+326,326,Hipertiroidisme,Konsultasikan dengan tenaga medis
+327,327,Hipertiroidisme,Ikuti rekomendasi medis
+328,328,Hipertiroidisme,Jaga berat badan tetap stabil
+329,329,Hipertiroidisme,Lakukan olahraga secara teratur
+330,330,Hipoglikemia,Konsumsi karbohidrat kompleks
+331,331,Hipoglikemia,Sertakan makanan kaya protein
+332,332,Hipoglikemia,Tetap terhidrasi
+333,333,Hipoglikemia,Batasi makanan dan minuman manis
+334,334,Hipoglikemia,Konsumsi makanan dan camilan secara teratur
+335,335,Hipoglikemia,Konsultasikan dengan tenaga medis
+336,336,Hipoglikemia,Monitor tingkat gula darah
+337,337,Hipoglikemia,Ikuti rekomendasi medis
+338,338,Hipoglikemia,Lakukan aktivitas fisik secara teratur
+339,339,Hipoglikemia,Batasi asupan alkohol
+340,340,Osteoartritis,Konsumsi makanan antiinflamasi
+341,341,Osteoartritis,Sertakan asam lemak omega-3
+342,342,Osteoartritis,Konsumsi makanan kaya antioksidan
+343,343,Osteoartritis,Tetap terhidrasi
+344,344,Osteoartritis,Batasi makanan olahan
+345,345,Osteoartritis,Sertakan makanan kaya vitamin K
+346,346,Osteoartritis,Konsultasikan dengan tenaga medis
+347,347,Osteoartritis,Ikuti rekomendasi medis
+348,348,Osteoartritis,Lakukan olahraga ringan
+349,349,Osteoartritis,Jaga berat badan tetap sehat
+350,350,Artritis,Konsumsi makanan antiinflamasi
+351,351,Artritis,Sertakan asam lemak omega-3
+352,352,Artritis,Konsumsi makanan kaya antioksidan
+353,353,Artritis,Tetap terhidrasi
+354,354,Artritis,Batasi makanan olahan
+355,355,Artritis,Sertakan makanan kaya vitamin K
+356,356,Artritis,Konsultasikan dengan tenaga medis
+357,357,Artritis,Ikuti rekomendasi medis
+358,358,Artritis,Lakukan olahraga ringan
+359,359,Artritis,Jaga berat badan tetap sehat
+360,360,(Vertigo) Vertigo Posisi Paroksismal,"Hindari makanan pemicu (kafein, alkohol)"
+361,361,(Vertigo) Vertigo Posisi Paroksismal,Batasi asupan natrium
+362,362,(Vertigo) Vertigo Posisi Paroksismal,Tetap terhidrasi
+363,363,(Vertigo) Vertigo Posisi Paroksismal,Konsumsi jahe dan ginkgo biloba
+364,364,(Vertigo) Vertigo Posisi Paroksismal,Batasi pemanis buatan
+365,365,(Vertigo) Vertigo Posisi Paroksismal,Konsultasikan dengan tenaga medis
+366,366,(Vertigo) Vertigo Posisi Paroksismal,Hindari gerakan kepala tiba-tiba
+367,367,(Vertigo) Vertigo Posisi Paroksismal,Ikuti rekomendasi medis
+368,368,(Vertigo) Vertigo Posisi Paroksismal,Melakukan pengelolaan stres
+369,369,(Vertigo) Vertigo Posisi Paroksismal,Batasi kafein dan stimulan
+370,370,Jerawat,Konsumsi diet seimbang
+371,371,Jerawat,Batasi produk susu dan makanan tinggi glikemik
+372,372,Jerawat,Sertakan antioksidan
+373,373,Jerawat,Tetap terhidrasi
+374,374,Jerawat,Batasi makanan olahan
+375,375,Jerawat,Sertakan makanan kaya seng
+376,376,Jerawat,Konsultasikan dengan ahli perawatan kulit
+377,377,Jerawat,Aplikasikan kebersihan kulit yang baik
+378,378,Jerawat,Batasi makanan dan minuman manis
+379,379,Jerawat,Ikuti rekomendasi medis
+380,380,Infeksi saluran kemih,Tetap terhidrasi
+381,381,Infeksi saluran kemih,Konsumsi produk cranberry
+382,382,Infeksi saluran kemih,Sertakan makanan kaya vitamin C
+383,383,Infeksi saluran kemih,Batasi kafein dan alkohol
+384,384,Infeksi saluran kemih,Konsumsi probiotik
+385,385,Infeksi saluran kemih,Hindari makanan pedas dan asam
+386,386,Infeksi saluran kemih,Konsultasikan dengan tenaga medis
+387,387,Infeksi saluran kemih,Ikuti rekomendasi medis
+388,388,Infeksi saluran kemih,Jaga kebersihan yang baik
+389,389,Infeksi saluran kemih,Batasi makanan dan minuman manis
+390,390,Psoriasis,Konsumsi makanan antiinflamasi
+391,391,Psoriasis,Sertakan asam lemak omega-3
+392,392,Psoriasis,Sertakan analog vitamin D
+393,393,Psoriasis,Batasi konsumsi alkohol
+394,394,Psoriasis,Tetap terhidrasi
+395,395,Psoriasis,Konsultasikan dengan tenaga medis
+396,396,Psoriasis,Batasi makanan olahan
+397,397,Psoriasis,Ikuti rekomendasi medis
+398,398,Psoriasis,Atasi stres
+399,399,Psoriasis,Pertimbangkan fototerapi di bawah bimbingan medis
+400,400,Impetigo,Jaga kebersihan yang baik
+401,401,Impetigo,Tetap terhidrasi
+402,402,Impetigo,Konsumsi makanan kaya nutrisi
+403,403,Impetigo,Batasi makanan dan minuman manis
+404,404,Impetigo,Sertakan makanan kaya vitamin C
+405,405,Impetigo,Konsultasikan dengan tenaga medis
+406,406,Impetigo,Ikuti anjuran medis
+407,407,Impetigo,Hindari menggaruk
+408,408,Impetigo,Konsumsi antibiotik sesuai resep dokter
+409,409,Impetigo,Lakukan perawatan luka

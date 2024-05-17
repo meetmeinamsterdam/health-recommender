@@ -1,0 +1,42 @@
+,Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+0,Reaksi Obat,Hentikan iritasi,Konsultasi ke rumah sakit terdekat,Hentikan penggunaan obat,Ikuti kontrol lanjutan
+1,Malaria,Konsultasi ke rumah sakit terdekat,Hindari makanan berminyak,Hindari makanan non-vegetarian,Jaga agar nyamuk tidak masuk
+2,Alergi,Oleskan calamine,Tutup area dengan perban,Gunakan es untuk mengompres gatal,
+3,Hipotiroidisme,Kurangi stres,Berolahraga,Makan sehat,Dapatkan tidur yang cukup
+4,Psoriasis,Cuci tangan dengan air hangat dan sabun,Hentikan pendarahan dengan tekanan,Konsultasi dokter,Mandi garam
+5,GERD,Hindari makanan berlemak dan pedas,Hindari berbaring setelah makan,Jaga berat badan sehat,Berolahraga
+6,Kolestasis Kronis,Mandi air dingin,Obat anti gatal,Konsultasi dokter,Makan sehat
+7,Hepatitis A,Konsultasi ke rumah sakit terdekat,Cuci tangan dengan baik,Hindari makanan berlemak dan pedas,Obat-obatan
+8,Osteoartritis,Acetaminophen,Konsultasi ke rumah sakit terdekat,Ikuti kontrol lanjutan,Mandi garam
+9,(Vertigo) Vertigo Posisi Paroksismal,Berbaring,Hindari perubahan posisi tubuh mendadak,Hindari gerakan kepala tiba-tiba,Bersantai
+10,Hipoglikemia,Berbaring miring,Cek nadi,Minum minuman manis,Konsultasi dokter
+11,Jerawat,Mandi dua kali sehari,Hindari makanan berlemak dan pedas,Minum banyak air,Hindari terlalu banyak produk
+12,Diabetes,Makan diet seimbang,Berolahraga,Konsultasi dokter,Ikuti kontrol lanjutan
+13,Impetigo,Rendam area yang terkena dalam air hangat,Gunakan antibiotik,Hapus keropeng dengan kain basah terkompresi,Konsultasi dokter
+14,Hipertensi,Meditasi,Mandi garam,Kurangi stres,Dapatkan tidur yang cukup
+15,Penyakit tukak peptik,Hindari makanan berlemak dan pedas,Konsumsi makanan probiotik,Hindari susu,Batasi alkohol
+16,Hemoroid Dimorfik (Wasir),Hindari makanan berlemak dan pedas,Konsumsi witch hazel,Mandi hangat dengan garam epsom,Konsumsi jus aloe vera
+17,Flu Biasa,Minum minuman kaya vitamin C,Menghirup uap,Hindari makanan dingin,Cek demam secara rutin
+18,Cacar Air,Gunakan daun neem saat mandi,Konsumsi daun neem,Ambil vaksin,Hindari tempat umum
+19,Spondilosis Serviks,Gunakan bantalan pemanas atau kompres dingin,Berolahraga,Ambil obat pereda nyeri OTC,Konsultasi dokter
+20,Hipertiroidisme,Makan sehat,Pijat,Gunakan lemon balm,Ambil perawatan iodine radioaktif
+21,Infeksi saluran kemih,Minum banyak air,Tingkatkan asupan vitamin C,Minum jus cranberry,Ambil probiotik
+22,Varises,Berbaring datar dan angkat kaki tinggi-tinggi,Gunakan salep,Gunakan kompresi vena,Jangan berdiri diam terlalu lama
+23,AIDS,Hindari luka terbuka,Gunakan APD jika memungkinkan,Konsultasi dokter,Ikuti kontrol lanjutan
+24,Paralisis (perdarahan otak),Pijat,Makan sehat,Berolahraga,Konsultasi dokter
+25,Tifoid,Makan sayuran berkalori tinggi,Terapi antibiotik,Konsultasi dokter,Obat-obatan
+26,Hepatitis B,Konsultasi ke rumah sakit terdekat,Vaksinasi,Makan sehat,Obat-obatan
+27,Infeksi jamur,Mandi dua kali sehari,Gunakan detol atau neem dalam air mandi,Jaga area yang terinfeksi tetap kering,Gunakan pakaian bersih
+28,Hepatitis C,Konsultasi ke rumah sakit terdekat,Vaksinasi,Makan sehat,Obat-obatan
+29,Migrain,Meditasi,Kurangi stres,Gunakan kacamata polaroid saat di bawah matahari,Konsultasi dokter
+30,Asma Bronkial,Beralih ke pakaian longgar,Tarik napas dalam-dalam,Menjauh dari pemicu,Minta bantuan
+31,Hepatitis Alkoholik,Hentikan konsumsi alkohol,Konsultasi dokter,Obat-obatan,Ikuti kontrol lanjutan
+32,Kuning,Minum banyak air,Konsumsi milk thistle,Makan buah dan makanan tinggi serat,Obat-obatan
+33,Hepatitis E,Hentikan konsumsi alkohol,Istirahat,Konsultasi dokter,Obat-obatan
+34,Dengue,Minum jus daun pepaya,Hindari makanan berlemak dan pedas,Jaga agar nyamuk tidak masuk,Terhidrasi
+35,Hepatitis D,Konsultasi dokter,Obat-obatan,Makan sehat,Ikuti kontrol lanjutan
+36,Serangan jantung,Panggil ambulans,Kunyah atau telan aspirin,Tenang,
+37,Pneumonia,Konsultasi dokter,Obat-obatan,Istirahat,Ikuti kontrol lanjutan
+38,Artritis,Berolahraga,Gunakan terapi panas dan dingin,Coba akupunktur,Pijat
+39,Gastroenteritis,Berhenti makan makanan padat untuk sementara waktu,Coba minum air dalam tegukan kecil,Istirahat,Mulai makan secara perlahan
+40,Tuberkulosis,Tutup mulut,Konsultasi dokter,Obat-obatan,Istirahat
